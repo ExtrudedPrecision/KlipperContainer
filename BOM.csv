@@ -1,0 +1,26 @@
+Item,Quantity,Part number,Description,Vendor
+1,1,EP-001-101,"CAP, BACK",EXTRUDED PRECISION
+2,1,EP-001-102,"PLATE, CONTROLS",EXTRUDED PRECISION
+3,1,EP-001-100,"CAP, FRONT",EXTRUDED PRECISION
+4,1,EP-001-103,"PLATE, POWER SUPPLY",EXTRUDED PRECISION
+5,1,EP-001-107,HANDLE,EXTRUDED PRECISION
+6,1,EP-001-104,"PANEL, CABLE",EXTRUDED PRECISION
+7,1,EP-001-105,"PANEL, RPI",EXTRUDED PRECISION
+8,1,LRS-350-24,"POWER SUPPLY, 24V",MEAN WELL
+9,1,,AC 250V 15A 3 Terminal Power Socket with Fuse Holder Case ON/OFF Switch Arcade Power Supply,
+10,2,,Hex socket countersunk head screw M3x0.5 x 12 Stainless Steel,
+11,46,,"Hex thin nut grade A & B M3 Stainless Steel ",
+12,1,EP-001-106,PASSTHROUGH,
+13,4,,"Hex socket countersunk head screw M3x0.5 x 10 Stainless Steel ",
+14,4,,"Hex socket head cap screw M3x0.50 x 5 Stainless Steel ",
+15,1,,Octopus,
+16,1,,120mm FAN,
+17,4,,Hex socket countersunk head screw M3x0.5 x 35 Stainless Steel,
+18,4,,"Plain washer large grade A M2 Stainless Steel ",
+19,4,,"Hex socket countersunk head screw M4x0.7 x 8 Stainless Steel ",
+20,2,,"Hex thin nut grade A & B M5 Stainless Steel ",
+21,2,,"Hex socket countersunk head screw M5x0.8 x 12 Stainless Steel ",
+22,1,,RASPBERRY PI,
+23,4,,"Hex thin nut grade A & B M2 Stainless Steel ",
+24,4,,"Hex socket head cap screw M2x0.40 x 4 Stainless Steel ",
+25,32,,"Hex socket countersunk head screw M3x0.5 x 8 Stainless Steel ",
